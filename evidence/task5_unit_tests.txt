@@ -1,0 +1,7 @@
+test_emotion_detector (test_emotion_detection.TestEmotionDetector.test_emotion_detector)
+Tests the 5 core emotions and their dominant emotions. ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.051s
+
+OK
